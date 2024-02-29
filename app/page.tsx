@@ -26,12 +26,6 @@ const jobs = [
     url: "https://boards.greenhouse.io/cloudflare/jobs/4945500?gh_jid=4945500",
   },
   {
-    title: "Software Engineer (Rust/TypeScript)",
-    company: "Deno",
-    location: "Remote",
-    url: "https://jobs.ashbyhq.com/Deno/21fe2085-a213-4ac5-ad44-516242335ee8",
-  },
-  {
     title: "Senior Software Engineer",
     company: "Lincoln Laboratory at MIT",
     location: "Lexington, MA",
@@ -84,12 +78,6 @@ const jobs = [
     company: "OpenAI",
     location: "San Francisco, CA",
     url: "https://openai.com/careers/software-engineer-distributed-systems",
-  },
-  {
-    title: "Senior Software Engineer, Audio/Video Products",
-    company: "Discord",
-    location: "San Francisco, CA / Remote",
-    url: "https://discord.com/jobs/6845495002",
   },
   {
     title: "Senior Software Engineer, Safety Orchestration",
